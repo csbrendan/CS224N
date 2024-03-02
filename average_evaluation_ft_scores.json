@@ -1,0 +1,8 @@
+{
+    "Average ROUGE-1": 0.35011973445834654,
+    "Average ROUGE-2": 0.12938462044076895,
+    "Average ROUGE-L": 0.26643062436313547,
+    "Average Precision": 0.39897320813908393,
+    "Average Recall": 0.1995087544903754,
+    "Average F1": 0.2513314564689761
+}
