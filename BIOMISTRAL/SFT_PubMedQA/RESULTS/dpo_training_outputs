@@ -1,0 +1,162 @@
+
+RUNNING TRAINING
+
+***** Running training *****
+  Num examples = 4,500
+  Num Epochs = 1
+  Instantaneous batch size per device = 4
+  Total train batch size (w. parallel, distributed & accumulation) = 16
+  Gradient Accumulation steps = 4
+  Total optimization steps = 281
+  Number of trainable parameters = 335,544,320
+  0%|    
+
+{'loss': 0.6786, 'grad_norm': 4.4375, 'learning_rate': 1.724137931034483e-06, 'rewards/chosen': 0.045431073755025864, 'rewards/rejected': 0.01580079272389412, 'rewards/accuracies': 0.737500011920929, 'rewards/margins': 0.029630282893776894, 'logps/rejected': -56.88774871826172, 'logps/chosen': -116.49169921875, 'logits/rejected': -2.419088840484619, 'logits/chosen': -1.9563995599746704, 'epoch': 0.04}
+{'loss': 0.5934, 'grad_norm': 3.46875, 'learning_rate': 3.448275862068966e-06, 'rewards/chosen': 0.14952784776687622, 'rewards/rejected': -0.06465771049261093, 'rewards/accuracies': 0.956250011920929, 'rewards/margins': 0.21418556571006775, 'logps/rejected': -64.38329315185547, 'logps/chosen': -109.1752700805664, 'logits/rejected': -2.2132620811462402, 'logits/chosen': -1.772722840309143, 'epoch': 0.07}
+{'loss': 0.4822, 'grad_norm': 1.875, 'learning_rate': 4.999805731202437e-06, 'rewards/chosen': 0.2006576508283615, 'rewards/rejected': -0.2834373414516449, 'rewards/accuracies': 1.0, 'rewards/margins': 0.4840950071811676, 'logps/rejected': -90.44778442382812, 'logps/chosen': -101.4778060913086, 'logits/rejected': -1.8902829885482788, 'logits/chosen': -1.3961145877838135, 'epoch': 0.11}
+{'loss': 0.3619, 'grad_norm': 2.015625, 'learning_rate': 4.976529986032632e-06, 'rewards/chosen': 0.24919752776622772, 'rewards/rejected': -0.5981859564781189, 'rewards/accuracies': 1.0, 'rewards/margins': 0.8473836183547974, 'logps/rejected': -123.8722152709961, 'logps/chosen': -89.8956527709961, 'logits/rejected': -1.7883491516113281, 'logits/chosen': -1.3383268117904663, 'epoch': 0.14}
+{'loss': 0.2392, 'grad_norm': 3.703125, 'learning_rate': 4.914814565722671e-06, 'rewards/chosen': 0.2624345123767853, 'rewards/rejected': -1.0900192260742188, 'rewards/accuracies': 1.0, 'rewards/margins': 1.3524537086486816, 'logps/rejected': -173.09530639648438, 'logps/chosen': -90.43270874023438, 'logits/rejected': -1.3337926864624023, 'logits/chosen': -0.7156072854995728, 'epoch': 0.18}
+{'loss': 0.1447, 'grad_norm': 1.109375, 'learning_rate': 4.815617391525772e-06, 'rewards/chosen': 0.26688069105148315, 'rewards/rejected': -1.6690866947174072, 'rewards/accuracies': 1.0, 'rewards/margins': 1.9359674453735352, 'logps/rejected': -228.1666259765625, 'logps/chosen': -98.1465072631836, 'logits/rejected': -1.0570251941680908, 'logits/chosen': -0.3944227993488312, 'epoch': 0.21}
+{'loss': 0.0759, 'grad_norm': 0.345703125, 'learning_rate': 4.680478160991514e-06, 'rewards/chosen': 0.2542110085487366, 'rewards/rejected': -2.468165874481201, 'rewards/accuracies': 1.0, 'rewards/margins': 2.722377061843872, 'logps/rejected': -307.20574951171875, 'logps/chosen': -93.66336059570312, 'logits/rejected': -0.6217368841171265, 'logits/chosen': 0.3354574143886566, 'epoch': 0.25}
+{'loss': 0.0499, 'grad_norm': 2.359375, 'learning_rate': 4.511494449416671e-06, 'rewards/chosen': 0.11446814239025116, 'rewards/rejected': -3.307543992996216, 'rewards/accuracies': 1.0, 'rewards/margins': 3.422011613845825, 'logps/rejected': -389.4058837890625, 'logps/chosen': -116.50321960449219, 'logits/rejected': 0.22994975745677948, 'logits/chosen': 1.128602385520935, 'epoch': 0.28}
+{'loss': 0.0337, 'grad_norm': 0.98046875, 'learning_rate': 4.311289152148182e-06, 'rewards/chosen': 0.014652803540229797, 'rewards/rejected': -3.9364676475524902, 'rewards/accuracies': 1.0, 'rewards/margins': 3.951120376586914, 'logps/rejected': -454.53076171875, 'logps/chosen': -110.70079040527344, 'logits/rejected': 0.6329367160797119, 'logits/chosen': 1.713621735572815, 'epoch': 0.32}
+{'loss': 0.0271, 'grad_norm': 0.1806640625, 'learning_rate': 4.0829697730853505e-06, 'rewards/chosen': -0.0766439437866211, 'rewards/rejected': -4.436811923980713, 'rewards/accuracies': 1.0, 'rewards/margins': 4.360167503356934, 'logps/rejected': -501.117431640625, 'logps/chosen': -128.74734497070312, 'logits/rejected': 0.5699008703231812, 'logits/chosen': 1.4962444305419922, 'epoch': 0.36}
+
+
+RUNNING EVALUATION
+
+ | 100/281 [23:00<41:09, 13.64s/it]***** Running Evaluation *****
+  Num examples = 500
+  Batch size = 8
+
+{'eval_loss': 0.02507248893380165, 'eval_runtime': 194.9323, 'eval_samples_per_second': 2.565, 'eval_steps_per_second': 0.323, 'eval_rewards/chosen': -0.14209043979644775, 'eval_rewards/rejected': -5.062537670135498, 'eval_rewards/accuracies': 0.9960317611694336, 'eval_rewards/margins': 4.92044734954834, 'eval_logps/rejected': -566.7772216796875, 'eval_logps/chosen': -129.6365509033203, 'eval_logits/rejected': 1.4600626230239868, 'eval_logits/chosen': 2.644493818283081, 'epoch': 0.36}
+ 36%|███████████████████████████████████████████████████████████████████▉                                                                                                                           | 100/281 [26:15<41:09, 13.64s/itSaving model checkpoint to data/biomistral-7b-dpo-pqa-context-lora/tmp-checkpoint-100                                                                                                                                                  
+loading configuration file config.json from cache at /home/metabrendan/.cache/huggingface/hub/models--BioMistral--BioMistral-7B/snapshots/9a11e1ffa817c211cbb52ee1fb312dc6b61b40a5/config.json
+Model config MistralConfig {
+  "architectures": [
+    "MistralForCausalLM"
+  ],
+  "attention_dropout": 0.0,
+  "bos_token_id": 1,
+  "eos_token_id": 2,
+  "hidden_act": "silu",
+  "hidden_size": 4096,
+  "initializer_range": 0.02,
+  "intermediate_size": 14336,
+  "max_position_embeddings": 32768,
+  "model_type": "mistral",
+  "num_attention_heads": 32,
+  "num_hidden_layers": 32,
+  "num_key_value_heads": 8,
+  "rms_norm_eps": 1e-05,
+  "rope_theta": 10000.0,
+  "sliding_window": 4096,
+  "tie_word_embeddings": false,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.38.2",
+  "use_cache": false,
+  "vocab_size": 32000
+}
+
+tokenizer config file saved in data/biomistral-7b-dpo-pqa-context-lora/tmp-checkpoint-100/tokenizer_config.json
+Special tokens file saved in data/biomistral-7b-dpo-pqa-context-lora/tmp-checkpoint-100/special_tokens_map.json
+{'loss': 0.0241, 'grad_norm': 0.2138671875, 'learning_rate': 3.830080191288342e-06, 'rewards/chosen': -0.29087328910827637, 'rewards/rejected': -5.085557460784912, 'rewards/accuracies': 1.0, 'rewards/margins': 4.794684410095215, 'logps/rejected': -568.5882568359375, 'logps/chosen': -148.92323303222656, 'logits/rejected': 0.9494510889053345, 'logits/chosen': 1.9672044515609741, 'epoch': 0.39}
+{'loss': 0.0269, 'grad_norm': 2.046875, 'learning_rate': 3.556545654351749e-06, 'rewards/chosen': -0.5479072332382202, 'rewards/rejected': -5.8341779708862305, 'rewards/accuracies': 1.0, 'rewards/margins': 5.286271095275879, 'logps/rejected': -644.5455322265625, 'logps/chosen': -174.2337188720703, 'logits/rejected': 0.6475552320480347, 'logits/chosen': 2.051386833190918, 'epoch': 0.43}
+{'loss': 0.014, 'grad_norm': 0.0966796875, 'learning_rate': 3.2666118523333363e-06, 'rewards/chosen': -0.2844681739807129, 'rewards/rejected': -6.340190887451172, 'rewards/accuracies': 1.0, 'rewards/margins': 6.055722713470459, 'logps/rejected': -695.2349853515625, 'logps/chosen': -144.11135864257812, 'logits/rejected': 1.0965137481689453, 'logits/chosen': 2.3993587493896484, 'epoch': 0.46}
+{'loss': 0.0068, 'grad_norm': 0.22265625, 'learning_rate': 2.964779017907287e-06, 'rewards/chosen': -0.5282703638076782, 'rewards/rejected': -7.157050132751465, 'rewards/accuracies': 1.0, 'rewards/margins': 6.628779411315918, 'logps/rejected': -774.0074462890625, 'logps/chosen': -169.4203643798828, 'logits/rejected': 0.8213319778442383, 'logits/chosen': 2.1542551517486572, 'epoch': 0.5}
+{'loss': 0.0065, 'grad_norm': 0.32421875, 'learning_rate': 2.6557320756121306e-06, 'rewards/chosen': -0.372358500957489, 'rewards/rejected': -6.981740474700928, 'rewards/accuracies': 1.0, 'rewards/margins': 6.609381675720215, 'logps/rejected': -756.4391479492188, 'logps/chosen': -150.34104919433594, 'logits/rejected': 0.8085058927536011, 'logits/chosen': 2.1196682453155518, 'epoch': 0.53}
+{'loss': 0.0105, 'grad_norm': 0.1142578125, 'learning_rate': 2.3442679243878698e-06, 'rewards/chosen': -0.6401950120925903, 'rewards/rejected': -8.011199951171875, 'rewards/accuracies': 1.0, 'rewards/margins': 7.371005058288574, 'logps/rejected': -863.3577270507812, 'logps/chosen': -184.31723022460938, 'logits/rejected': 1.1746604442596436, 'logits/chosen': 2.2175073623657227, 'epoch': 0.57}
+{'loss': 0.0152, 'grad_norm': 9.125, 'learning_rate': 2.035220982092714e-06, 'rewards/chosen': -1.0299698114395142, 'rewards/rejected': -9.439764022827148, 'rewards/accuracies': 0.9937499761581421, 'rewards/margins': 8.409794807434082, 'logps/rejected': -1007.0343017578125, 'logps/chosen': -220.92025756835938, 'logits/rejected': 1.113402009010315, 'logits/chosen': 2.2976155281066895, 'epoch': 0.6}
+{'loss': 0.0015, 'grad_norm': 0.09521484375, 'learning_rate': 1.7333881476666648e-06, 'rewards/chosen': -0.9047024846076965, 'rewards/rejected': -10.510992050170898, 'rewards/accuracies': 1.0, 'rewards/margins': 9.606290817260742, 'logps/rejected': -1111.104736328125, 'logps/chosen': -208.7117156982422, 'logits/rejected': 1.4660611152648926, 'logits/chosen': 2.537994146347046, 'epoch': 0.64}
+{'loss': 0.0044, 'grad_norm': 0.14453125, 'learning_rate': 1.443454345648252e-06, 'rewards/chosen': -1.0075410604476929, 'rewards/rejected': -11.803701400756836, 'rewards/accuracies': 1.0, 'rewards/margins': 10.796160697937012, 'logps/rejected': -1243.8714599609375, 'logps/chosen': -213.1458282470703, 'logits/rejected': 1.458219051361084, 'logits/chosen': 2.5890042781829834, 'epoch': 0.68}
+{'loss': 0.0065, 'grad_norm': 0.265625, 'learning_rate': 1.169919808711659e-06, 'rewards/chosen': -1.2680286169052124, 'rewards/rejected': -12.814396858215332, 'rewards/accuracies': 1.0, 'rewards/margins': 11.546368598937988, 'logps/rejected': -1340.6300048828125, 'logps/chosen': -241.53506469726562, 'logits/rejected': 1.2412925958633423, 'logits/chosen': 2.3732752799987793, 'epoch': 0.71}
+
+***** Running Evaluation *****
+  Num examples = 500
+  Batch size = 8
+{'eval_loss': 0.004325727932155132, 'eval_runtime': 194.6651, 'eval_samples_per_second': 2.569, 'eval_steps_per_second': 0.324, 'eval_rewards/chosen': -1.3425471782684326, 'eval_rewards/rejected': -13.246041297912598, 'eval_rewards/accuracies': 1.0, 'eval_rewards/margins': 11.903493881225586, 'eval_logps/rejected': -1385.12744140625, 'eval_logps/chosen': -249.68223571777344, 'eval_logits/rejected': 2.155816078186035, 'eval_logits/chosen': 3.254838705062866, 'epoch': 0.71}
+ 71%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                       | 200/281 [52:24<18:04, 13.39s/itSaving model checkpoint to data/biomistral-7b-dpo-pqa-context-lora/tmp-checkpoint-200                                                                                                                                                  
+loading configuration file config.json from cache at /home/metabrendan/.cache/huggingface/hub/models--BioMistral--BioMistral-7B/snapshots/9a11e1ffa817c211cbb52ee1fb312dc6b61b40a5/config.json
+Model config MistralConfig {
+  "architectures": [
+    "MistralForCausalLM"
+  ],
+  "attention_dropout": 0.0,
+  "bos_token_id": 1,
+  "eos_token_id": 2,
+  "hidden_act": "silu",
+  "hidden_size": 4096,
+  "initializer_range": 0.02,
+  "intermediate_size": 14336,
+  "max_position_embeddings": 32768,
+  "model_type": "mistral",
+  "num_attention_heads": 32,
+  "num_hidden_layers": 32,
+  "num_key_value_heads": 8,
+  "rms_norm_eps": 1e-05,
+  "rope_theta": 10000.0,
+  "sliding_window": 4096,
+  "tie_word_embeddings": false,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.38.2",
+  "use_cache": false,
+  "vocab_size": 32000
+}
+
+tokenizer config file saved in data/biomistral-7b-dpo-pqa-context-lora/tmp-checkpoint-200/tokenizer_config.json
+Special tokens file saved in data/biomistral-7b-dpo-pqa-context-lora/tmp-checkpoint-200/special_tokens_map.json
+Deleting older checkpoint [data/biomistral-7b-dpo-pqa-context-lora/checkpoint-100] due to args.save_total_limit
+{'loss': 0.0075, 'grad_norm': 2.21875, 'learning_rate': 9.170302269146509e-07, 'rewards/chosen': -1.1921312808990479, 'rewards/rejected': -12.878427505493164, 'rewards/accuracies': 1.0, 'rewards/margins': 11.686296463012695, 'logps/rejected': -1351.0244140625, 'logps/chosen': -238.58975219726562, 'logits/rejected': 1.5556221008300781, 'logits/chosen': 2.8748321533203125, 'epoch': 0.75}
+{'loss': 0.0024, 'grad_norm': 0.07373046875, 'learning_rate': 6.887108478518184e-07, 'rewards/chosen': -0.7402637600898743, 'rewards/rejected': -11.95639705657959, 'rewards/accuracies': 1.0, 'rewards/margins': 11.216133117675781, 'logps/rejected': -1253.4112548828125, 'logps/chosen': -198.84906005859375, 'logits/rejected': 1.51505446434021, 'logits/chosen': 2.4944300651550293, 'epoch': 0.78}
+{'loss': 0.0018, 'grad_norm': 0.125, 'learning_rate': 4.885055505833291e-07, 'rewards/chosen': -0.6958776712417603, 'rewards/rejected': -11.871182441711426, 'rewards/accuracies': 1.0, 'rewards/margins': 11.17530345916748, 'logps/rejected': -1251.690673828125, 'logps/chosen': -190.18968200683594, 'logits/rejected': 1.329399824142456, 'logits/chosen': 2.3773033618927, 'epoch': 0.82}
+{'loss': 0.0033, 'grad_norm': 0.51953125, 'learning_rate': 3.1952183900848673e-07, 'rewards/chosen': -1.0489671230316162, 'rewards/rejected': -12.453083992004395, 'rewards/accuracies': 1.0, 'rewards/margins': 11.4041166305542, 'logps/rejected': -1307.7281494140625, 'logps/chosen': -224.3998260498047, 'logits/rejected': 1.3839097023010254, 'logits/chosen': 2.4183788299560547, 'epoch': 0.85}
+{'loss': 0.0047, 'grad_norm': 1.609375, 'learning_rate': 1.843826084742284e-07, 'rewards/chosen': -1.1472218036651611, 'rewards/rejected': -12.291131973266602, 'rewards/accuracies': 1.0, 'rewards/margins': 11.143911361694336, 'logps/rejected': -1294.6812744140625, 'logps/chosen': -229.4932403564453, 'logits/rejected': 1.510467767715454, 'logits/chosen': 2.389688014984131, 'epoch': 0.89}
+{'loss': 0.0029, 'grad_norm': 1.1953125, 'learning_rate': 8.518543427732951e-08, 'rewards/chosen': -1.0804600715637207, 'rewards/rejected': -12.589431762695312, 'rewards/accuracies': 1.0, 'rewards/margins': 11.50897216796875, 'logps/rejected': -1321.5426025390625, 'logps/chosen': -224.8354034423828, 'logits/rejected': 1.4007010459899902, 'logits/chosen': 2.5632545948028564, 'epoch': 0.92}
+{'loss': 0.0005, 'grad_norm': 0.115234375, 'learning_rate': 2.347001396736798e-08, 'rewards/chosen': -1.1346204280853271, 'rewards/rejected': -12.785499572753906, 'rewards/accuracies': 1.0, 'rewards/margins': 11.650880813598633, 'logps/rejected': -1338.923828125, 'logps/chosen': -230.1114501953125, 'logits/rejected': 1.6383167505264282, 'logits/chosen': 2.6853365898132324, 'epoch': 0.96}
+{'loss': 0.0036, 'grad_norm': 4.90625, 'learning_rate': 1.9426879756284656e-10, 'rewards/chosen': -1.1257623434066772, 'rewards/rejected': -11.978044509887695, 'rewards/accuracies': 1.0, 'rewards/margins': 10.852282524108887, 'logps/rejected': -1255.6492919921875, 'logps/chosen': -232.5447540283203, 'logits/rejected': 1.155287265777588, 'logits/chosen': 2.079256534576416, 'epoch': 1.0}
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 281/281 [1:11:06<00:00, 13.51s/it]
+
+Training completed. Do not forget to share your model on huggingface.co/models =)
+
+
+{'train_runtime': 4266.942, 'train_samples_per_second': 1.055, 'train_steps_per_second': 0.066, 'train_loss': 0.10071302189746892, 'epoch': 1.0}                                                                                      
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 281/281 [1:11:06<00:00, 15.18s/it]
+***** train metrics *****
+  epoch                    =        1.0
+  train_loss               =     0.1007
+  train_runtime            = 1:11:06.94
+  train_samples            =       4500
+  train_samples_per_second =      1.055
+  train_steps_per_second   =      0.066
+Saving model checkpoint to data/biomistral-7b-dpo-pqa-context-lora
+loading configuration file config.json from cache at /home/metabrendan/.cache/huggingface/hub/models--BioMistral--BioMistral-7B/snapshots/9a11e1ffa817c211cbb52ee1fb312dc6b61b40a5/config.json
+Model config MistralConfig {
+  "architectures": [
+    "MistralForCausalLM"
+  ],
+  "attention_dropout": 0.0,
+  "bos_token_id": 1,
+  "eos_token_id": 2,
+  "hidden_act": "silu",
+  "hidden_size": 4096,
+  "initializer_range": 0.02,
+  "intermediate_size": 14336,
+  "max_position_embeddings": 32768,
+  "model_type": "mistral",
+  "num_attention_heads": 32,
+  "num_hidden_layers": 32,
+  "num_key_value_heads": 8,
+  "rms_norm_eps": 1e-05,
+  "rope_theta": 10000.0,
+  "sliding_window": 4096,
+  "tie_word_embeddings": false,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.38.2",
+  "use_cache": false,
+  "vocab_size": 32000
+}
+
+tokenizer config file saved in data/biomistral-7b-dpo-pqa-context-lora/tokenizer_config.json
+Special tokens file saved in data/biomistral-7b-dpo-pqa-context-lora/special_tokens_map.json
+tokenizer config file saved in data/biomistral-7b-dpo-pqa-context-lora/tokenizer_config.json
+Special tokens file saved in data/biomistral-7b-dpo-pqa-context-lora/special_tokens_map.json
