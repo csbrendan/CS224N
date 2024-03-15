@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=PI0ejpl-R6E&t=3s
 
 ## Attribution
 
-Part of the code for supervised-fine-tuning and dpo was adapted and inspired from a deeplearning.ai notebook, "Supervised fine-tuning (SFT) of an LLM" and "Human preference fine-tuning using direct preference optimization (DPO) of an LLM" by Lewis Tunstall and Edward Beeching of Hugging Face. https://www.youtube.com/watch?v=QXVCqtAZAn4
+Part of the code for supervised-fine-tuning and dpo was adapted and inspired from a deeplearning.ai notebook, "Supervised fine-tuning (SFT) of an LLM" and "Human preference fine-tuning using direct preference optimization (DPO) of an LLM" by Lewis Tunstall and Edward Beeching of Hugging Face. 
 
 This project utilizes the PubMed QA dataset.
 https://huggingface.co/datasets/qiaojin/PubMedQA
