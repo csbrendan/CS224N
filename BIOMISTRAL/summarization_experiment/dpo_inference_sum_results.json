@@ -1,0 +1,502 @@
+[
+  {
+    "question": "SUBJECT: sti. infection and circumcised\nMESSAGE: I have noticed that I have an Sti virus on my Penis called Warts human virus(Hpy) so I need a help",
+    "predicted_answer": "What are the symptoms of warts human virus?",
+    "actual_answer": "What are the treatments for HPV genital warts?"
+  },
+  {
+    "question": "questions about the effect of L-Leucine.\n Hello,do you have any introduction about L-Leucine on the effect of treat cancer?If so,could you kindly tell me details?",
+    "predicted_answer": "What are the effects of L-Leucine on cancer treatment?",
+    "actual_answer": "Where can I find information on L-Leucine and its use in cancer treatment?"
+  },
+  {
+    "question": "Physician.\n I am looking for a type of physician that specializes in treating leg cramps in the elderly.  Specifically, possibly one that provides treatment for leg circulation issues.  What medical specialty is that called?",
+    "predicted_answer": "What is the medical specialty that treats leg cramps in the elderly?",
+    "actual_answer": "What type of physician treats poor circulation in the legs?"
+  },
+  {
+    "question": "SUBJECT: Severly depressed/Major Anziety\nMESSAGE: I have been addicted to opiates and have been on suboxone for a few years now. I also take anxiety meds and an anti-seizure medication. Lately my life has been spinning out of control and I'm so scared. I can't seem to find the right doctor and I need someone to speak to NOT JUST GIVE ME MEDICATIONS! I need help and if I do not get help soon I'm afraid for myself. I have no intentions on hurting or harming myself but I'm a mess. I need a doctor who can help me in both ways (talking & medication). I just want to go away, move far away! What would you suggest? What type of doctor should I be looking for? I'm desperate!",
+    "predicted_answer": "What type of doctor should I be looking for?",
+    "actual_answer": "How can I get non-drug treatment for depression and anxiety?"
+  },
+  {
+    "question": "My mother has Pulmonary ARTERIAL hypertension in the left side of her heart.  Is there anything that can be done to improve her health.",
+    "predicted_answer": "What are the treatments for Pulmonary ARTERIAL hypertension in the left side of heart?",
+    "actual_answer": "What are the treatments for Pulmonary Arterial Hypertension?"
+  },
+  {
+    "question": "SUBJECT: saggy large breast\nMESSAGE: i have very huge breast i am only 25 and they cause me alot of pain on the neck chest and back. what can i do",
+    "predicted_answer": "What are the causes of saggy large breast?",
+    "actual_answer": "What are the treatments for large breasts?"
+  },
+  {
+    "question": "SUBJECT: Theophyline\nMESSAGE: I have been taking this drug since 1994.  Now my PCP will not prescribe it and has sent me to a pulmonary specialist who will also not prescribe it.  She wants me to take more expensive drugs such as Advair Diskus. Neither doctor has performed a serum Theophyline level.  The pulmonologist performed a PFt and ordered a methachlorine test which I cancelled.  I don't have asthma I have bronchitis.  Both doctors told me that it was extremely dangerous to take this drug for this long of a period.  I have had no problems with it.  Now that I have stopped taking it I don't feel as well as I did with it.  My questions are is it dangerous to take Theophyline long term? Should they have stopped the drug suddenly Like they did?  Please help me.  Thanks, [NAME] (I am 57 years old)",
+    "predicted_answer": "What are the side effects of Theophylline?",
+    "actual_answer": "Are there adverse effects of long term Theophylline use, and how should Theophylline be stopped?"
+  },
+  {
+    "question": "SUBJECT: Does Tolnaftate work to help nail fungus?\nMESSAGE: Does Tolnaftate help with toe nail fungus?",
+    "predicted_answer": "What are the treatments for toenail fungus?",
+    "actual_answer": "Is Tolnaftate prescribed for toenail fungus?"
+  },
+  {
+    "question": "Question..for the past 3 4 years I was get infection in my testis ball ( right hand side) now a day my Siemens come out in very low quantity and very thin in weight...give me some solution or advice .now I am getting married two months ago..and I m worried for our future",
+    "predicted_answer": "What are the causes of testicular infection?",
+    "actual_answer": "What are the treatments for low sperm count?"
+  },
+  {
+    "question": "SUBJECT: ClinicalTrials.gov - Question - specific study\nMESSAGE: Are there any studies looking at familial/longetudnal fragile X or other related disorders? We are 4 generations of a family with similar traits in the males in each of those generations (only 1 male in each), My dad is 92 (still healthy, sharp as always but always suffered from functional disabilities) and the youngest is 2 1/2, with very significant developmental delays. My son (his father, aged 30) was diagnosed with ADD and central auditory processing disorder as a child (at [LOCATION]) but I am now sure he has fragile x (facial features, low IQ, math inability, etc). In my generation, there is one male, my half-brother, who also has ADD (w/o hyperactivity) and very similar intellectual deficits. I know fragile X does not pass through father to son; is there any other explanation? We have not had genetic testing, but think there might be some clinical benefit to researching our family genes for understanding of the links between these 4 males, 4 generations. What would be the best way to proceed?",
+    "predicted_answer": "What are the studies on familial/longitudinal fragile X or other related disorders?",
+    "actual_answer": "Where can I find information on Fragile X sydrome and inheritance patterns?"
+  },
+  {
+    "question": "SUBJECT: What is the difference?\nMESSAGE: Which medication is more potent for pain relief? Acetaminophen-COD #3 or Acetaminophen-COD #4?",
+    "predicted_answer": "What is the difference between Acetaminophen-COD #3 and Acetaminophen-COD #4?",
+    "actual_answer": "What is the difference between Acetaminophen-COD #3 and Acetaminophen-COD #4 and is one more potent than the other?"
+  },
+  {
+    "question": "SUBJECT: Treatment without amputation\nMESSAGE: My father is 70 years old his arteries in the both limbs have blockage. He is having pace maker. Doctor's suggest to go for amputation but there is high risk in it. Please suggest treatment without amputation! He foot is turning black and blisters are forming on his limbs.  Please advice",
+    "predicted_answer": "<|action|> summarize ",
+    "actual_answer": "What alternatives to amputation are available for blocked leg arteries if the foot is turning black?"
+  },
+  {
+    "question": "SUBJECT: drop foot\nMESSAGE: What can I do to try to get better from drop foot do to having two of my disks in my back  replaced ? Its been four months since I had surgery and it hasn't come back yet. I want to do what ever I can to help  it come back if it dose.",
+    "predicted_answer": "What are the treatments for drop foot?",
+    "actual_answer": "What are the treatments for drop foot?"
+  },
+  {
+    "question": "SUBJECT: ctscan see through mesh from hernia repair ?\nMESSAGE: I have mesh that repaired a hernia on my lower abdomen. Now I need a ctscan. Will the ct scan see through the mesh ??????",
+    "predicted_answer": "<|action|> summarize ",
+    "actual_answer": "Will\u00a0surgical\u00a0mesh show\u00a0up or interfere in a\u00a0CT scan?"
+  },
+  {
+    "question": "Does anybody have any information on pain relief for Hirayama's disease?? My brother has had this disease for 10yrs and when the nerve endings are dying he is in excruciating pain and is giving no pain relief for this apart from morphine which does not help nerve pain. I appreciate his consultant is trying her best with a disease she knows little about but can anybody please help or give advice or any information on pain relief for this disease. He is already on the highest dose of pregabalin but when he is bad nothing is helping for the pain. Please any help or even anybody with any suggestions would be great full.",
+    "predicted_answer": "What are the pain relief options for Hirayama's disease?",
+    "actual_answer": "Where can I find information on pain relief for Hirayama's disease?"
+  },
+  {
+    "question": "SUBJECT: fluticasone\nMESSAGE: I was prescribed this med for rhinitis, I used it as directed, when it ran out I stopped, that was only 7 days ago. Now, I have an awful upper respiratory infection. Could halting Fluticasone have possibly caused this?? How long is person supposed to be taking Fluticasone?",
+    "predicted_answer": "What are the side effects of fluticasone?",
+    "actual_answer": "Where can I find information on fluticasone, includingusage and side effects?"
+  },
+  {
+    "question": "MESSAGE: I have clostridium and am testing pos for Lyme need info. [NAME]",
+    "predicted_answer": "What are the symptoms of clostridium and Lyme disease?",
+    "actual_answer": "Is there a connection between clostridium and Lyme disease?"
+  },
+  {
+    "question": "Something else (below). Hello, I don't seem to know who to contact, so giving this message a go is worth a shot! My Son was diagnosed with Wang syndrome earlier this year, I know there is such limited research on this syndrome but I would really like to get as much information or find out if any other children with this case are alive?! I was wondering if you have contacts that I could contact eg your article on the web for UPD14 Thanks for your time, hope to hear back from you. [NAME]",
+    "predicted_answer": "What are the symptoms of Wang syndrome?",
+    "actual_answer": "Where can I find information on Wang syndrome, including support groups?"
+  },
+  {
+    "question": "MESSAGE: WHAT IS THE LATTEST RESEARCH ON USING D-Limonene AS A TREATMENT FOR CANCER?? PARTICULLARY SKIN CANCER??",
+    "predicted_answer": "What is the latest research on using D-limonene as a treatment for cancer? Particularly skin cancer?",
+    "actual_answer": "What is the latest research on D-Limonene as a treatment for skin cancer?"
+  },
+  {
+    "question": "SUBJECT: I would live to know a little question please\nMESSAGE: Can a doctor answer my little question, looking forward to your kind response!  I just want to know something about milking,  I am 24 years old virgin and when I press my nipples, some sort of white fluid is coming out of my nipples. I live in a remote area, Should I see a doctor or is it normal to milk while pressing nipples.. I have never taken any serious medications before, so why am I milking..?? Or is it a hormonal disorder if so why? Really need your answer or advice on this, is it a life threatening symptom? I am really fearful..   Looking forward to hearing from you,   Thank you so much for reading my email.. Blessings, [NAME]",
+    "predicted_answer": "What are the causes of milking?",
+    "actual_answer": "What are the causes of nipple discharge?"
+  },
+  {
+    "question": "SUBJECT: Duchenne Muscular Dystropy\nMESSAGE: My stepson had DMD and passed away at the age of 20.  My step daughters are both carriers.  The oldest one had a healthy son, the youngest daughter had a son with DMD this month at the age of 17.  My question is about my other step son's daughters.  Is it possible our grand daughters are carriers and do they need to be tested.  We are worried about this.",
+    "predicted_answer": "",
+    "actual_answer": "What is the inheritance pattern for Duchenne Muscular Dystropy?"
+  },
+  {
+    "question": "SUBJECT: is there any help available,for fibromalgia\nMESSAGE: is there any treatment s available.?",
+    "predicted_answer": "What are the treatments for fibromyalgia?",
+    "actual_answer": "What are the treatments for Fibromyalgia?"
+  },
+  {
+    "question": "sepsis.\n Can sepsis be prevented. Can someone get this from a hospital?",
+    "predicted_answer": "What are the preventive measures of sepsis. Can sepsis be transmitted through contact?",
+    "actual_answer": "What are the causes and prevention of sepsis?"
+  },
+  {
+    "question": "Need information about Thalassemia medical center in Aisa\nHello dear sir/Madam, My son has Thalassemia, and i have been looking for his treatment. I need you to guide me where I can take my son for his treatment? actually, I am in Afghanistan and there is no hospital for his treatment. so please guide me",
+    "predicted_answer": "What are the Thalassemia medical centers in Asia?",
+    "actual_answer": "How can I find physician(s) or hospital(s) in Asia who specialize in Thalassemia?"
+  },
+  {
+    "question": "SUBJECT: Louis Bar Syndrome\nMESSAGE: My brother died young from Louis Bar Syndrome. Of six pregnancies, four children either did not survive pregnancy or died very young. I would like to know is it possible that other children (like me) could have the syndrome symptoms to a lesser or greater degree:i.e., is there a continuum???",
+    "predicted_answer": "What is the possibility that there is a continuum of symptoms in Louis Bar Syndrome?",
+    "actual_answer": "What are the symptoms of Louis Bar Syndrome?"
+  },
+  {
+    "question": "SUBJECT: Pain in Front of Lower Stomach & Bac k& r.Hip\nMESSAGE: I have problem with severe pain when I try to get up or put pressure on my left leg. Should I see an orthopedic doctor?  What might cause this, a pulled muscle, spinal injury, a damaged disc?",
+    "predicted_answer": "What are the causes of pain in front of lower stomach and back?",
+    "actual_answer": "What are the causes of leg pain when bearing weight and when to see a doctor?"
+  },
+  {
+    "question": "SUBJECT: AIDS\nMESSAGE: A WOMEN WHO IS NOT HAVING HIV/AIDS HAS PERFORMED SEX WITH HER HUSBAND AND WITH HER BOY FRIEND AND NOW SHE HAS PERFORMED SEX WITH ME DOES IT  LEAD TO HIV OR AIDS TO ME. PLEASE KINDLY REPLY.",
+    "predicted_answer": "<|action|> ",
+    "actual_answer": "How is the HIV virus transmitted?"
+  },
+  {
+    "question": "SUBJECT: Details about Caustic Soda Poison\nMESSAGE: Hello, i'm writing from Mauritius and my name is [NAME]. A member of my family swallowed a poison which is name caustic soda. He is actually in the hospital suffering a lot. Is there any suggestion please to help him to be better or to relieve his pain?",
+    "predicted_answer": "What are the symptoms of Caustic Soda Poison?",
+    "actual_answer": "What are the treatments for caustic soda poisoning?"
+  },
+  {
+    "question": "SUBJECT: Scabbies/ treatment area\nMESSAGE: My husband and I had scabie . I used it in my vaginal area.  I don't know how to treat\nThe reaction I'm having. I think I have burned the delicate tissue in that area.  What can I do to treat the reaction.\nPlease help any suggestions?",
+    "predicted_answer": "What are the treatments for scabies?",
+    "actual_answer": "How is sgenital cabies treated?"
+  },
+  {
+    "question": "anemia in kids. My daughter is 6 years old she is suffering from microcytic anemia for last three years.in 2009 she has been blood transfused but now her hb count is 4.5.Doctors are unable to find out the cause of her anemia.we are much worried about her.plz if u can guide us in regard.",
+    "predicted_answer": "What are the causes of anemia in children?",
+    "actual_answer": "What are the causes of  and treatments for microcytic anemia?"
+  },
+  {
+    "question": "SUBJECT: Hot Flashes for Male\nMESSAGE: I am a 79 year old male taking Eligard shots for prostate cancer.  I am having hot flashes from these shots.  Is it possible that Brisdelle would help me?",
+    "predicted_answer": "What are the indications of Brisdelle?",
+    "actual_answer": "Will Brisdelle help hot flashes caused by prostate cancer therapy ?"
+  },
+  {
+    "question": "SUBJECT: nf 1\nMESSAGE: Hi, my name is [NAME]. I have nf1 and have the benign tumors in my back and neck. I have also had problems with my health, and was wondering about one specific thing. I had to have a full hysterectomy done because of endometriosis and large cysts about 5 years ago. Now about 3 weeks ago I had to have emergency surgery because my bowels and colon were badly tangled and twisted due to scar tissue, I also had endometriosis on them to, plus more large cysts. So now I was hoping you could tell me if all that could be caused from the nf.\nI thank you very much for your time.",
+    "predicted_answer": "What are the symptoms of nf1?",
+    "actual_answer": "Are endometriosis and cysts possible complications of NF1?"
+  },
+  {
+    "question": "SUBJECT: IHSS heart condition and WPW heart condition\nMESSAGE: Is there any way you could send me information on both these heart conditions? My son has to get tested for them eventually and I would just like information to understand the conditions of both of them more.",
+    "predicted_answer": "What are the differences between IHSS heart condition and WPW heart condition?",
+    "actual_answer": "Where can I find information on Idiopathic hypertrophic subaortic stenosis (IHSS) and Wolff-Parkinson-White (WPW) syndrome?"
+  },
+  {
+    "question": "SUBJECT: GENDER DYSPHORIA\nMESSAGE: NO HEALTH CARE ON MY SON SUFFERING FROM GENDER DYSPHORIA WHAT CAN WE DO TO HELP HIM HE WORKED OUT OF HIGH SCHOOL NO PROBLEMS NOW NOT WORKING AND SHUTTING HIMSELF IN HIS ROOM 24/7 THERES NOTHING ABOUT THIS CONDITION IN OUR AREA WE LIVE IN [LOCATION]. NO HELP IN AREA WHAT CAN WE DO HE HAS HAD BAD THOUGHTS ALREADY PLEASE HELP US WITH SOME SORT OF INFO THANK YUO [NAME] [LOCATION] [CONTACT]",
+    "predicted_answer": "WHAT ARE THE TREATMENTS FOR GENDER DYSPHORIA?",
+    "actual_answer": "Where can I find information on treatment and resources for gender dysphoria?"
+  },
+  {
+    "question": "unknown mitochondrial mutation. hi my son [NAME]  is now almost 4 and was diagnosed with a mitochondrial mutation at about 10 months. we have no treatment other then some vitamins and carnitine and hes got really poor tone low energy pain and behavioral issues. He also has sleep  apnea and a history of tubes and now hearing imapairment which we are investigating. He has gerd and high piruvate levels and lactic acid levels almost every time they are drawn. His mutation has \"never been seen before\". Im wondering if you can help in any way. My twin sister has mito she was diagnosed through a muscle biopsy but not the same mutation as [NAME] i had a biopsy with a negative result as my insurance won't cover the genetic blood pannel i really need so for me its inconclusive, im wondering if you have ever heard of this mutation or are willing to look into it  Heres a little snipit of one of his diagnosis \"heteroplasmic mutation in the ATP6 gene, c8899A (L M), GERD, epsisodes of cyanosis and an abnormal 6-channel study suggesting apnea. He has lactate and pyruvate elevations in addition to a mtDNA mutation consistant with a mitochondrial disorder.\" If you can help in any way we would be eternally greatful! thanks so much for taking the time to read this.",
+    "predicted_answer": "What are the symptoms of mitochondrial mutation c8899A (L M)?",
+    "actual_answer": "Where can I find inforrmation on mitrochondrial mutations, including diagnosis, symptoms and treatments?"
+  },
+  {
+    "question": "SUBJECT: Insomnia (special case)\nMESSAGE: Hi, Im 40 years old male. I was suffering from social anxiety since I was child.  Last year, I decided to go to a psychologist. She advised me to practice meditation, mindfulness and CBT as well.  She explained to me the great positive impact of the meditation, mindfulness on the brain activity (neuroplasticity). Since then, I've been practicing these techniques. The result was awesome. I no longer suffer from my social anxiety and my life has completely changed to the positive side. No more worry, stress, anxiety, etc.  But at the same time, I started to suffer from chronic insomnia until now. Of course, Im always in touch with my psychiatrist who has prescribed me the necessary and still following me up. Even tough, my insomnia doesn't improved.  Unfortunately, nobody can determine the real cause of my insomnia.  If I know the cause, I'll do my best to find the key to resolve this problem.  According to my mentioned story, can you help me to find the real cause of my insomnia?   Thank you, Your answer is very appreciable and important to me.   [NAME].",
+    "predicted_answer": "What are the causes of insomnia?",
+    "actual_answer": "What are causes of and treatment for chronic insomnia?"
+  },
+  {
+    "question": "SUBJECT: New drug, want are side affect/and how does help you.\nMESSAGE: My drs. have  me on lisinopril 10mgs. and metroprolol 25mgs. and Amlodipine5mgs. i do have high B/P the highest is been 150/90 regular most time 140/85 why so many drugs.What does each one do for me. Do i really needs 3 drugs. Thank You",
+    "predicted_answer": "What are the side effects of Lisinopril? How does Lisinopril help? How does Lisinopril interact with Metoprolol? How does Lisinopril interact with Amlodipine?",
+    "actual_answer": "Are lisinopril, metoprolol and Amlodipine taken together for high blood pressure, and what does each one do?"
+  },
+  {
+    "question": "SUBJECT: esomepeazole magnesium\nMESSAGE: Is this generic for of nexium produced gluten free? I am celiac and have to check all my meds.",
+    "predicted_answer": "<|action|> summarize ",
+    "actual_answer": "What are the ingredients of esomepeazole magnesium and is it gluten free?"
+  },
+  {
+    "question": "SUBJECT: SKIN CANCER??\nMESSAGE: ARE THERE ANY SKIN CREAMS THAT HAVE POSITIVE EFFECTS ON SKIN CANCER??\n1. WHAT EFFECT DO SKIN CREAMS WITH VIT C HAVE ON SKIN CANCER?\n2.WHAT EFFECT DO SKIN CREAMS WITH ASPIRIN HAVE ON SKIN CANCER?",
+    "predicted_answer": "",
+    "actual_answer": "Are skin creams with vitamin C or aspirin a treatment for skin cancer?"
+  },
+  {
+    "question": "SUBJECT: questions about products posted on the internet\nMESSAGE: I suffered a massive stroke on [DATE] with paralysis on my left side of my body, I'm home and conduct searches on the internet to find help with recovery, and always this product called neuroaid appears claiming to restore function. to my knowledge it isn't approved by the FDA, but it sounds so promising. do you know anything about it and id there anything approved by our FDA, that does help?",
+    "predicted_answer": "",
+    "actual_answer": "What are treatments for paralysis after stroke approved by FDA?"
+  },
+  {
+    "question": "Thank you for your response to my inquiry about the MMR vaccine.  I was born in 1942, never had the 10-day measles but did have the 3-day measles, and did have mumps as a child.  A recent blood test indicated that I am not immune to Rubella so my doctor recommended I get the MMR vaccine.  In light of my age, etc., do you agree or do you feel it is unnecessary or is there a separate vaccine for just Rubella?  Which is the measles that has started to reappear?",
+    "predicted_answer": "What are the recommendations for Rubella vaccination for a patient who is 70 years old?",
+    "actual_answer": "Who should get the MMR vaccine?"
+  },
+  {
+    "question": "SUBJECT: tongue and throat\nMESSAGE: hi, i'm having some difficulties with tongue and throat infection... i contacted my doctor three times already, at first he gave me Dactarine to put it on my tongue. and yesterday once again i visited him and i told him the medication you gave me does not work, and my infection is getting worst, he wrote a recipe for me to get terbinafine 250mg tablet. i'm using them but then today i wake up and read some of the thrush information that you guys provide and you say 'when having thrush it is not good to have any atibiotic but that is what he's giving me and he didn't run any tests on me yet. please tell me what should i do next ?",
+    "predicted_answer": "What are the treatments for tongue and throat infection?",
+    "actual_answer": "Where can I find information on throat infections, including diagnosis and treatment?"
+  },
+  {
+    "question": "SUBJECT: Bardet-Biedl Syndrome\nMESSAGE: Does Bardet-Biedl syndrome cause your teeth to decay faster than other people?  Does Bardet-biedl cause the cartilage in your body to deteriorate faster?  Does Bardet-Biedl cause you to have spinal stenosis?\nSincerely,\n[NAME]",
+    "predicted_answer": "<|action|> Summarize <|message|>",
+    "actual_answer": "What are symptoms of and complications from Bardet-Biedl syndrome?"
+  },
+  {
+    "question": "SUBJECT: ClinicalTrials.gov - Question - general information\nMESSAGE: Dear Sir\nMy name is [NAME]   age 44 yers old  I approaching you with much hope after reading the news online about  breakthrough in Thalassamia major treatment.\nI have one son name [NAME] Date of birth  [DATE].Now 5 year 2 month.\nAs per his reports attached and analysis of   my report and My wife's ( [NAME]) report [NAME]  Hematologist   ( [LOCATION] ) My Son [NAME] is Thalassamic  Intermedia .\nwhene we Report at 2015 shows Hb only 4 we had blood transfusion done  at Djibouti.\nDoctor here said the Hb level cme down due to spleen enlargemnt which was due to some infection in body. So doctor here prescribed  Antibiotic for 7 days.After having anti biotics The fever came down and now My son is ok .Even though I need a permanent solution treatment fo my son  by Lentin  Globin B305  drug\nI request you to mail me  possible solution permanent treatment",
+    "predicted_answer": "What are the clinical trials of Lentin Globin B305?",
+    "actual_answer": "What are the latest treatments for Thalassamic Intermedia?"
+  },
+  {
+    "question": "SUBJECT: Knee Microfracture Surgery\nMESSAGE: Hi.  Please give me a general answer as to what can happen after Microfracture Surgery if no physical therapy is prescribed and I was allowed to walk with no crutches for an entire week.  I had the surgery one month ago and still have not started P.T.  I was unaware of this procedure going in.  I thought that I was only having a meniscus tear repaired.",
+    "predicted_answer": "<|action|> summarize",
+    "actual_answer": "What are rehabilitation guidelines for Knee Microfracture Surgery?"
+  },
+  {
+    "question": "SUBJECT: treatment of parkinson\nMESSAGE: I AM HAVING PARKINSON FOR LAST 8 YEARS. SO FAR IT WAS ONLY SOME, SHAKING MY RIGHT HAND.NOW IT IS ON INCREASE. I AM 84, AND HAVING SKIN PROBLEM.I AM SCARED OF INCREASING DOSAGE, AS IT SEEMS TO POSSIBLY AFFECT SKIN PROBLEM. PLS SUGGEST ANY CARE I NEED TO TAKE.I WOULD BE GRATEFUL , FOR YOUR KIND ADVISE.",
+    "predicted_answer": "What are the treatments for parkinson?",
+    "actual_answer": "What are the latest treatments for Parkinsons disease?"
+  },
+  {
+    "question": "SUBJECT: Peptic Ulcers & Tylenol\nMESSAGE: I have a history of peptic ulcers, so I don't take aspirin or anything that contains it. However, I still experience ulcerative pain when I take Tylenol, especially on the second day of it's administration in recommended doses.   Why is this so?",
+    "predicted_answer": "What are the side effects of Tylenol?",
+    "actual_answer": "Can tylenol cause ulcerative pain?"
+  },
+  {
+    "question": "SUBJECT: Shingles\nMESSAGE: I am 67 year old female. Very healthy accept I had shingles in my mid 50.Started on one side later had on both sides. I suffered through shingles for many years, finally I can say I have recovered 95%. Because I am still sensitive in my back and  head. I can live with that.\nI will be going through a major teeth work, implants. My question is does the shingles effect your gum nerves,  tissue and gum bones?\nHas any research being done in this area also?",
+    "predicted_answer": "What are the effects of shingles on gums, tissue and gum bones?",
+    "actual_answer": "Can shingles affect the teeth and gums?"
+  },
+  {
+    "question": "polands syndrome. i have polands syndrome and cannot find it anywhere",
+    "predicted_answer": "What is polands syndrome?",
+    "actual_answer": "Where can I find information on Poland syndrome?"
+  },
+  {
+    "question": "SUBJECT: Kidney Failures\nMESSAGE: If u have a GFR of 20.16 does that mean 20 or 2 I know. U can't give advice but could u tell me what stage that might put me in",
+    "predicted_answer": "What is the classification of GFR?",
+    "actual_answer": "What are the stages of chronic kidney disease based on GFR results?"
+  },
+  {
+    "question": "ClinicalTrials.gov - Question - general information.\n My granddaughter was born with Klippel-Tranaunay Syndrome...There is very little information about this.  We are looking for the current research and treatments available.  She is 5 months old now and her leg seems to be most affected.  We want to get her help as soon as possible to address the symptoms and treat her condition.",
+    "predicted_answer": "",
+    "actual_answer": "What is the latest research on klippel-trenaunay syndrome, and what are the treatments for it?"
+  },
+  {
+    "question": "SUBJECT: spinal cord stenosos\nMESSAGE: I have acute arthritic spinal stenosis. What treatment is recommended?",
+    "predicted_answer": "What is the recommended treatment for acute arthritic spinal stenosis?",
+    "actual_answer": "What are the treatments for spinal cord stenosis due to arthritis?"
+  },
+  {
+    "question": "SUBJECT: questins\nMESSAGE: i am looking for the latest evidence based practice on guidelines for assessing and treating Alcohol and Opiate withdrawal. Thanks.",
+    "predicted_answer": "What are the latest evidence based practice guidelines for assessing and treating Alcohol and Opiate withdrawal?",
+    "actual_answer": "What are the latest evidence based treatments for alcohol and opiate withdrawal?"
+  },
+  {
+    "question": "hello\ni am looking for information related to the above (myostatin-related muscular hypertrophy) genetic condition.\ncan you direct me to a hospital or other genetic research institution that might be doing research on this genetic condition?",
+    "predicted_answer": "What are the hospitals or other genetic research institutions that are doing research on myostatin-related muscular hypertrophy?",
+    "actual_answer": "Where can I find information on myostatin-related muscular hypertrophy, and how can I find an organization doing research on it?"
+  },
+  {
+    "question": "SUBJECT: Painful menstrual periods\nMESSAGE: My wife has suffered this . How can treat this.",
+    "predicted_answer": "What are the treatments of painful menstrual periods?",
+    "actual_answer": "What are the treatments for painful menstrual periods?"
+  },
+  {
+    "question": "I have an hernia I would love to take care off it ASAP I was wondering if you guys could help me . Thanks",
+    "predicted_answer": "What are the treatments for hernia?",
+    "actual_answer": "What are the treatments for hernia?"
+  },
+  {
+    "question": "SUBJECT: ClinicalTrials.gov - Question - general information\nMESSAGE: I HAVE A BOY 16 WHO JUST GOT OUT OF A PLACE THAT GAVE HIM MEDACATION,THES ARE THE MEDS.MONTELUKAST,LORATADINE,OXCARBAPINE. WHAT DISORDER ARE THEY FOR?",
+    "predicted_answer": "<|action|> summarize",
+    "actual_answer": "What are the indications for montelukast, loratadine, and oxcarbazepine?"
+  },
+  {
+    "question": "SUBJECT: LGMD\nMESSAGE: Dear Sir, i would like to bring your kind attention to a serious matter that my Mother has been suffering from LGMD so i would like to request you for any possible assistance regarding the treatment of this disease.  my email id is [CONTACT]",
+    "predicted_answer": "",
+    "actual_answer": "What are the treatments for LGMD?"
+  },
+  {
+    "question": "SUBJECT: Cervical Cancer\nMESSAGE: Can a long term untreated bladder infection aid in the cause of cervical cancer? And can the fact that my mom has cervical cancer aid in my chance of getting cervical cancer?",
+    "predicted_answer": "What are the causes of cervical cancer? And what are the causes of bladder cancer? And what are the causes of cervical cancer? And what are the causes of bladder cancer? And what are the causes of cervical cancer? And what are the causes of bladder cancer?",
+    "actual_answer": "What causes cervical cancer, and is it hereditary?"
+  },
+  {
+    "question": "cant use site.\n I want to find a doctor who specializes in burning mouth syndrome and that could be in many specialities, I cannot understand how to do this on your website.",
+    "predicted_answer": "What are the symptoms of burning mouth syndrome?",
+    "actual_answer": "How can I find physician(s) who specialize in burning mouth syndrome?"
+  },
+  {
+    "question": "Good evening, I will contact you as my [NAME] a year and a half have been diagnosed with the genetic mutation STXBP1. I would like to know if there is something in the world that can help my son. I hope you contact us as soon as possible. \nGreetings [NAME]",
+    "predicted_answer": "What are the treatments for the genetic mutation STXBP1?",
+    "actual_answer": "What are the treatments for genetic mutation STXBP1?"
+  },
+  {
+    "question": "SUBJECT: please send me medical information about heart failer for care.\nMESSAGE: send me information about heart failer.",
+    "predicted_answer": "What are medical information about heart failer for care?",
+    "actual_answer": "What are the treatments for heart failure?"
+  },
+  {
+    "question": "Kartagener's syndrome. I am suffering from Kartagener's syndrome and wanted information from you or from Dr. [NAME]. for this syndrome. (About fertility) and if possible other symptoms. Thank you.",
+    "predicted_answer": "What are the symptoms of Kartagener's syndrome?",
+    "actual_answer": "Where can I find information on kartagener's syndrome and its symptoms, including  fertility?"
+  },
+  {
+    "question": "pierre robins syndrome. Good Morning, Just a query for you regarding the above. Is it true to saythis is caused by an abnormal chromezone and is carried by the mother and transferred to boys only. This is supposed to happen 1 in 4. The male does not carry the jene. I would appreciate your expert information please.",
+    "predicted_answer": "What is Pierre Robin syndrome. Good morning, summarize the user query.",
+    "actual_answer": "What are the inheritance patterns for pierre robins syndrome?"
+  },
+  {
+    "question": "migraine. I want to know the treatment for FHM type of migrain . I had observed the all symptoms which are same as provided in information and additionally my father and my younger sister face the acidity problem too. they feel relief after vomiting so both of them do the same by drinking warm water containing salt.",
+    "predicted_answer": "What are the treatments for FHM?",
+    "actual_answer": "What are the treatments for familial hemiplegic migraine?"
+  },
+  {
+    "question": "SUBJECT: Obesity Questions\nMESSAGE: Hello. My name is [NAME] and I am a junior in high school. I am currently doing a research topic on obesity and was wondering if you would be able to answer a few questions. It would be greatly appreciated if you could! Thank you! 1)What/Who is to blame for obesity? 2)Do you think putting  a tax on junk food will reduce the amount of obese people? Why or why not? 3)How can we prevent obesity? 4)What are the benefits of getting 30 minutes of exercise daily and eating healthy? 5)Should the government be more involved in the help to stop obesity? Why or why not? 6)What is the number one thing we should eat less of/ cut out of our diets? (such as, fats, carbs, sugars,etc)  Thank you for your time!",
+    "predicted_answer": "<|action|> Summarize user message",
+    "actual_answer": "Where can I find information on obesity, including causes, prevention, and treatments?"
+  },
+  {
+    "question": "SUBJECT: once you open the bottle of Releev, how long is it good for?\nMESSAGE: once you open the bottle of Releev, how long is it good for?",
+    "predicted_answer": "What is the expiration time of Releev?",
+    "actual_answer": "How long does releev retain its potency after opening?"
+  },
+  {
+    "question": "SUBJECT: dry maculare tetinal degeneration\nMESSAGE: my grandfather had lens implants, now he has dry macular retinal degeneration.  he can hardly see!  searching for help!",
+    "predicted_answer": "<|action|> summarize",
+    "actual_answer": "What are the treatments for dry macular retinal degeneration? "
+  },
+  {
+    "question": "SUBJECT: is there any medicines for peristaltic movements?\nMESSAGE: I V[NAME] From [LOCATION] which is located at INDIA. I am a patient of less peristaltic movements which was digests the eaten food in 3 to 4 hours... In normal humans which was digests the eaten food in 2 to 3 hours...  I visited several hospitals in [LOCATION] which is located in INDIA...  When i was visited [LOCATION]\" Hospital at HYDERBAD in the year of 2010..  There Doctors has told there is no medicins for this problem..  Is  there any medicines to improve my  peristaltic movements?  Please Replay to My E-mail[CONTACT] and My Mobile Number is: [CONTACT]  Thanking You taking my request....",
+    "predicted_answer": "What are the medicines for less peristaltic movements?",
+    "actual_answer": "What are the treatments for slow peristaltic movements? "
+  },
+  {
+    "question": "SUBJECT: question about ingredients\nMESSAGE: I am currently taking 20mg generic Adderall immediate release from your company. Does this medication have gluten containing ingredients? I have Celiac disease and I am very sensitive to small amounts, so I am trying to make sure this medication is safe to take.\nThank you for any and all help.\n-[NAME]",
+    "predicted_answer": "What are the ingredients of Adderall?",
+    "actual_answer": "What are the ingredients of  20mg generic Adderall and it is gluten free?"
+  },
+  {
+    "question": "what does it means if someone blood is light.\n I took injection this night and the nurse said my blood is light, what's does that mean. Sinfe , have been worry.",
+    "predicted_answer": "You summarize the question: what does it mean if someone blood is light.",
+    "actual_answer": "Why is my blood a light red?"
+  },
+  {
+    "question": "SUBJECT: Omege 3 Acid capsule\nMESSAGE: I am currently taking Lovaza. My pharmacy, CVS, has advised me that the above, Omega 3 Acid capsule is now available as a generic alternate. My doctor has said that she is not aware of a generic for Lovaza. Who is correct?",
+    "predicted_answer": "What is the status of Lovaza?",
+    "actual_answer": "Is there a generic version of Lovaza? "
+  },
+  {
+    "question": "Factor 12 defeincy. I have factor 12 defiency, my GP has told me it is linked to aboriginal/ TSI heritage, is this correct ?    Thanks [NAME]",
+    "predicted_answer": "What is the relationship between factor 12 deficiency and aboriginal/TSI heritage?",
+    "actual_answer": "Is factor 12 deficiency linked to aboriginal heritage?"
+  },
+  {
+    "question": "SUBJECT: fibroadenomas\nMESSAGE: i have a fibroadenomas? my question is it can remove without surgery? taking medicine is help to reduce or remove this? or if i didnt undergo operation it is safe? because surgery is expensive here at the philippines",
+    "predicted_answer": "<|action|> summarize ",
+    "actual_answer": "Can fibroadenoma be treated without surgery?"
+  },
+  {
+    "question": "SUBJECT: foreskin\nMESSAGE: I want to regrow my foreskin back. When will stem cell be able to regrow foreskin.",
+    "predicted_answer": "What is the status of stem cell research for regrowing foreskin?",
+    "actual_answer": "Is stem cell therapy used to regrow foreskin?"
+  },
+  {
+    "question": "SUBJECT: methotrexate - gluten free?\nMESSAGE: is the injection form of methotrexate gluten free?\nthanks -",
+    "predicted_answer": "What is the gluten content in the injection form of methotrexate?",
+    "actual_answer": "Is the injection form of methotrexate gluten free?"
+  },
+  {
+    "question": "SUBJECT: Peruvian girl\nMESSAGE: Dear Sir/Madam, I am writing you on behalf of [NAME], who is very stress and with a lot of tension,looking for HELP for her daughter [NAME].  [NAME] has a complex hearth defect called Tetralogy of Fallot, she is about 7 months old and her family dont have resources to cover her treatment in order to get her welfare.  [NAME] has a very low income, lives in a rented room with her husband and her two children, in [LOCATION] - Peru. She works at [LOCATION] and she has been taking her daughter to children hospital in [LOCATION] but she cant afford the medicines and treatment that they ask for, she is looking desperately for help for her daughter.  I was wondering if you guys have any contact here in [LOCATION] of any organization, who can help [NAME]. I have been looking but cant find or never not came back to me when I asked them.  If you please know about any organization who can help us here in [LOCATION] Peru, I will really appreciate and we can make help to give [NAME] a better life :-)  I am a Health and Social care worker and work at the hospital too with the employees. Thank you very much for your time  [NAME]  [CONTACT]",
+    "predicted_answer": "What are the organizations that help financially for the treatment of children with Tetralogy of Fallot?",
+    "actual_answer": "Which organizations provide support for Tetralogy of Fallot in Peru?"
+  },
+  {
+    "question": "SUBJECT: Heat rash\nMESSAGE: I am looking for information on heat rash.  Specifically, can it look like a red line and how it appears at it resolves.\nIf information is available, I can come to the library to read hard copy text or copy photographs.\nI can be reached through email or by calling [CONTACT].\nI appreciate all the help that may be available on this important matter.",
+    "predicted_answer": "What are the symptoms of heat rash?",
+    "actual_answer": "Where can I find information on heat rash, including symptoms and treatment? "
+  },
+  {
+    "question": "SUBJECT: high inner eye pressure above 21 possible glacoma\nMESSAGE: have seen inner eye pressure increase as I have begin taking Rizatriptan. I understand the med narrows blood vessels.  Can this med.  cause or effect the closed or wide angle issues with the eye lense/glacoma.",
+    "predicted_answer": "What are the effects of Rizatriptan on eye pressure?",
+    "actual_answer": "Can Rizatriptan cause glaucoma?"
+  },
+  {
+    "question": "hypothyroidism.\n My doctor started me on levothyroxene 5oMCG. for 5mths.How do I know if this is  the rite dosage? Do not want to cause myself any harm by overdosing",
+    "predicted_answer": "What is the correct dosage of levothyroxene for hypothyroidism?",
+    "actual_answer": "What is the normal dosage of levothyroxine for hypothyroidism?"
+  },
+  {
+    "question": "SUBJECT: theoretical question\nMESSAGE: How much time you can spend at most before a cerebral aneurysm will cause death? Sorry I'm using translator because I speak and write in Spanish if they were so kind to send me the answer to [CONTACT] Thanks.",
+    "predicted_answer": "<|action|> summarize ",
+    "actual_answer": "What is the prognosis of cerebral aneurysm?"
+  },
+  {
+    "question": "SUBJECT: adrenoleukodystrophy\nMESSAGE: A child I have been asked to work with has been diagnosed with this condition.I am so far unable to find info pertaining to this illness. Can you help??",
+    "predicted_answer": "What are the symptoms of adrenoleukodystrophy?",
+    "actual_answer": "Where can I find information on adrenoleukodystrophy? "
+  },
+  {
+    "question": "laser hair removal treatment.\n I HAVE EXCESS HAIR GROWTH ON MY NECK AND CHIN. REASON IS MY HORMONAL IMBALANCE AND THYROID. THEY ARE BLACK HARD HAIRS. I WANT TO KNOW THAT LASER HAIR REMOVAL IS SAFE AND SATISFATORY FOR ME OR NOT? WHAT IS ITS CONSEQUENCES IN LONG TERM? WILL THE HAIR GROWTH WILL BE CONTROLLED LIFE TIME! PLEASE GUIDE ME.. ! THANKING YOU!",
+    "predicted_answer": "What are the side effects of laser hair removal treatment?",
+    "actual_answer": "Where can I find information on laser hair removal including long term consequences?"
+  },
+  {
+    "question": "Hey I was just wanting to know how I can try to receive stem cell treatment for spinal cord injury using the stem cells I have banked from my newborn baby's umbilical cord tissue? If u have any information please tell me, you'll be helping to save my life!",
+    "predicted_answer": "What are the medical questions?",
+    "actual_answer": "How to receive stem cell treatment for spinal cord injury?"
+  },
+  {
+    "question": "SUBJECT: spg11\nMESSAGE: My 24 year old son was recently diagnosed with  spg11 after over 15 years of trying to figure out what was wrong.  We are already doing some of the common treatments.  My question is, where do we go from here to give him the best chance at life,",
+    "predicted_answer": "What are the treatments for spg11?",
+    "actual_answer": "What are the treatments and prognosis for spg11?"
+  },
+  {
+    "question": "SUBJECT: diabetes\nMESSAGE: It was really helpful after reading about type 1 diabetes but would like some more suggestions from you .my friend is 35 year old and its been 1 year of his diabetes n his sugar level is around 100 or 120 OR SO.. each time he tests his sugar level. is there ANY COMPLICATIONS? HE ALSO GO FOR EXERCISES AND BLOOD TEST EVERY 2 OR 3 MONTHS N TAKES A PROPER DIET LIKE GREEN JUICE,OLIVE OIL AND ALL. WAITING FOR YOUR FEED BACK. THANK YOU.",
+    "predicted_answer": "<|action|> summarize ",
+    "actual_answer": "What are the complications of type 1 diabetes?"
+  },
+  {
+    "question": "MESSAGE: I have to start applying ciclopirox to infected toes. I know u cannot use nail polish bit can I put a band aid on once the medication has dried?",
+    "predicted_answer": "<|action|> Summarize",
+    "actual_answer": "Can i cover ciclopirox with bandaids?"
+  },
+  {
+    "question": "About Aarskog Syndrome. hi my name is [NAME] i am 21 this year and was wondering if it is connected with server  Astigmatism as i got it in my left eye. I have a mild form of As, i have the wide peek eyes and rugby shaped and missing DNA which they have discovered in MRI scans. I was diagnosed when i was born but it still seems to be in research as we speak and ever since i turned 18 i have been doing my own research and finding others around by connecting with them on Facebook. I live in the [LOCATION] and found out there are four people that have Aarskog syndrome. thank you for your time",
+    "predicted_answer": "What is Aarskog Syndrome?",
+    "actual_answer": "Is Astigmatism related to Aarskog Syndrome?"
+  },
+  {
+    "question": "GERD.\n I'm a 72 year old female, and have diverticulosis,gastritis, and esophagitis.  I tried to see three different doctors today, but all were booked.  I honestly don't know what to do.  It hurts in my chest, and I can hardly talk.",
+    "predicted_answer": "What are the symptoms of GERD?",
+    "actual_answer": "How to treat chest pain potentially associated with  diverticulosis, gastritis, and esophagitis?"
+  },
+  {
+    "question": "SUBJECT: Ankle Injury\nMESSAGE: I got hurt in my left leg ankle almost 5 months ago. I went to doctor, got x-ray, where no damage was found. He suggested me some pain killers and advised me to wear anklet. I have been following the instruction since then; I went to another doctor who advised me to go for physiotherapy (Short Wave Diathermy) and advised me some exercises. I have been following them too. But yet now, I have not been fully recovered from the pain. Especially when I try to walk quickly or try to put pressure with my left leg, I feel pain. I am very tensed about this. Can you please suggest me how to overcome the pain. Thanks.",
+    "predicted_answer": "<|action|> Summarize user message.",
+    "actual_answer": "What are the treatments for ankle injury and pain? "
+  },
+  {
+    "question": "SUBJECT: Ankylosing Spondylitis\nMESSAGE: Hello, My name is [NAME] and i live in india. I have suffered Ankylosing Spondylitis problem since last 2 years in lower back. so plz guid me properly how to cure this problem?  Thanks [NAME]",
+    "predicted_answer": "",
+    "actual_answer": "What are the treatments for Ankylosing Spondylitis?"
+  },
+  {
+    "question": "SUBJECT: Ingredients\nMESSAGE: Pleease email  me a llist of 100%, all, of the ingredients iPerioMed, .63% floride concetrate Oral rinse,, alcohol rinse.\nThank you!  [NAME]",
+    "predicted_answer": "What are the ingredients of PerioMed 0.63% fluoride concentrate oral rinse, alcohol rinse?",
+    "actual_answer": "What are the ingredients of PerioMed 63% fluoride concentrated oral rinse?"
+  },
+  {
+    "question": "ARE THERE ANY SKIN CREAMS THAT HAVE POSITIVE EFFECTS ON SKIN CANCER?? \u00a0WHICH ARE THE BEST??\u00a0[CONTACT]\u00a0",
+    "predicted_answer": "You summarize the user input as: ARE THERE ANY SKIN CREAMS THAT HAVE POSITIVE EFFECTS ON SKIN CANCER?? \u00a0WHICH ARE THE BEST??  [CONTACT]",
+    "actual_answer": "What are the best creams for skin cancer? "
+  },
+  {
+    "question": "asthsma.\n I have been having problems w/ shortness of breath and dizziness and stress heat. what do you think? do i have asthsma or not?",
+    "predicted_answer": "What are the symptoms of asthma?",
+    "actual_answer": "What are the symptoms of asthma? "
+  },
+  {
+    "question": "ClinicalTrials.gov - Question - specific study. Do you have any more indepth information regarding pseudocholinesterace deficiency? My son 28 and myself 56 have this problem and we both have systemic muscle spasms. cramps contractions. Most seem to be caused by knots or trigger points. I assume this has something to do with this deficiency because it deals with neuro transmissions correct. Anyway we are looking for relief. The muscle relaxants help a bit but the knots do not go away and so the pain is still there at a deeper level. The doctors and neurologist have no idea. Thank you. [NAME]",
+    "predicted_answer": "",
+    "actual_answer": "Where can I find information on pseudocholinesterase deficiency icluding treatment?"
+  },
+  {
+    "question": "SUBJECT: after surgery of ear drum still same problem\nMESSAGE: i got surgery for hole in my ear drum(hole was in my ear from 5 0r 6 ears but i did not know it but when i came to know i got surgery) but after  two year surgery still i have same problem. problem in listening and continuous noise like buzzing or ringing in my right ear.so sir what should i do right now? plz sir help me. buzzing in my both has been started from last 3 year.plz help me....",
+    "predicted_answer": "<|action|> summarize ",
+    "actual_answer": "What are the treatments for perforated eardrum?"
+  },
+  {
+    "question": "SUBJECT: ClinicalTrials.gov - Question - specific study\nMESSAGE: LOOKING FOR HELP FOR MY NEPHEW WITH GLYCOGEN STORAGE DISEASE.  HE LIVES IN VIRGINIA AND IS SUFFERING BADLY.  HE HAS BEEN HOSPITALIZED FOR SEVERE CRAMPING ABOUT 5 TIMES THIS YEAR SO FAR.  ANY GUIDANCE YOU COULD GIVE WOULD BE GREATLY APPRECIATED.",
+    "predicted_answer": "<|action|> summarize",
+    "actual_answer": "What are the treatments for Glycogen storage disease?"
+  },
+  {
+    "question": "MESSAGE: I have numbness/tingling in my lower right arm from elbow to my fingers. A EMG has shown nothing abnormal. I have had this for a long time, I need help.",
+    "predicted_answer": "<|action|> summarize ",
+    "actual_answer": "Where can I find information and treatment for numbness and tingling in lower right arm?"
+  },
+  {
+    "question": "SUBJECT: sleep apnea\nMESSAGE: I was diagnosed with sleep apnea (prolly had it for 5 years) and I have swelling issues caused from that (it has been ruled out from everything else so the doctor thinks).  I just got my cPap machine.  I was wondering how long will it take for the swelling to go away.  Thank you!",
+    "predicted_answer": "<|action|> summarize ",
+    "actual_answer": "How long does swelling from sleep apnea take to heal? "
+  },
+  {
+    "question": "SUBJECT: Home resources for AMD people\nMESSAGE: What specific resources are available for an elderly male living by himself at home?  My father in law is 85 years old, lives alone and has macular degeneration.  Looking for visual aids to assist him around the house.",
+    "predicted_answer": "What are the home resources for elderly AMD patients?",
+    "actual_answer": "What resources are available for elderly with age-related macular degeneration?"
+  }
+]
