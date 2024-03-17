@@ -6,10 +6,10 @@
 https://github.com/csbrendan/CS224N/blob/main/paper/CS224N_Project.pdf
 
 ## Poster
-https://github.com/csbrendan/CS330/blob/main/poster/CS330_Project_Poster_Final.pdf
+https://github.com/csbrendan/CS224N/blob/main/poster/CS224N_Project_Poster_Final.pdf
 
 ## Video
-https://www.youtube.com/watch?v=PI0ejpl-R6E&t=3s
+https://www.youtube.com/
 
 ## Requirements
 
