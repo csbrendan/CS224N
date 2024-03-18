@@ -1,6 +1,6 @@
 # CS224N
 
-# Alignment of Medical Language Models via Direct Preference Optimization
+# Efficient Alignment of Medical Language Models using Direct Preference Optimization
 
 ## Paper
 https://github.com/csbrendan/CS224N/blob/main/paper/CS224N_Project.pdf
