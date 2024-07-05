@@ -12,7 +12,7 @@ https://github.com/csbrendan/CS224N/blob/main/paper/CS224N_Project.pdf
 https://github.com/csbrendan/CS224N/blob/main/poster/CS224N_Project_Poster_Final.pdf
 
 ## Video
-https://youtu.be/oU28wbKdYgQ
+https://youtu.be/PYhsdQp6KhM
 
 ## Requirements
 
